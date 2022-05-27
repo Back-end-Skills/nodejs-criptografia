@@ -1,3 +1,6 @@
+<h1 align="center"> Crypografia & Decryptografi Node js </h1>
+<p align="justify"> Prepare seu código secreto  </p>
+
 # Componentes Necessários:
 
 * [git](https://git-scm.com/)
@@ -30,7 +33,7 @@ npm start
 ### Output
 
 ```shel
-Data=[Some data plain]
+Data=[Criptografia data]
 Data crypted=[4ee8b9fd43c94019edebafc2d6374c82]
-Data decrypted=[Some data plain]
+Data decrypted=[Criptografia data]
 ```
