@@ -1,0 +1,19 @@
+{
+  "name": "criptografiajs",
+  "version": "1.0.0",
+  "description": "Criptografia de Descriptografia Simples de Dados com Javascript",
+  "author": "Isaque Menezes",
+  "license": "MIT",
+  "keywords": [
+    "cipher",
+    "crypto",
+    "decipher",
+    "encryption"
+  ],
+  "main": "home.js",
+  "scripts": {
+    "start": "node source/home.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+  
+}
